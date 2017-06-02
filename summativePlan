@@ -1,0 +1,16 @@
+//Basil Kaoud 
+//ICS3U Summative Plan 
+//FamilyFeudGame 
+//Mr.Linseman 
+
+//This game will contain two teams and one captain, that will be asked questions and will be given a score based 
+// if their answer is close to the actual answers. The higher the rounds, the higher the score will be. 
+
+
+//This program will take different varibales, arryas and will handle each criteria in sperate arryas.
+//the question number, the questions, the answers,and the points will be the variables and will be 
+//put each one in different arrays. For example, the answers will be in the annswerArray, 
+//and each variable will contain a different array.
+//-There will also be different loops that will contain each array and check if the user inputs is the close or same 
+//as the answers. 
+
